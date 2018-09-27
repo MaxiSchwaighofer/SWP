@@ -1,0 +1,4 @@
+1) git pull
+2) git add "Datei"
+3) git git commit -m "Massage für Verständis"
+4) git push
